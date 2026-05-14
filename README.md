@@ -46,18 +46,9 @@ Pandas-Complete-Guide/
 ├── 📓 merging_joining.ipynb
 ├── 📓 data_visualization.ipynb
 ├── 📓 case_studies.ipynb
-├── 📂 datasets/
-│   ├── (extracted CSV/Excel files)
+├── 📓 datasets (CSV/Excel files)
 └── 📄 README.md
 ```
-
----
-
-## 🗂️ Datasets
-
-All datasets are available in extracted format inside the `datasets/` folder — ready to use directly, no extraction needed.
-
----
 
 ## 🛠️ Technologies Used
 
